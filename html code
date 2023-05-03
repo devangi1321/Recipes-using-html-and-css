@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+		<h1>Health cuddle</h1>
+        <hr>
+        <h2>Cheeseee chicken butter chicken</h2>
+      <marquee>  <img src="https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg">
+        <img src="https://j6e2i8c9.rocketcdn.me/wp-content/uploads/2015/04/butter_chicken_recipe_7.jpg">
+        <img src="https://foodess.com/wp-content/uploads/2022/10/Foodess-Best-Butter-Chicken-1-2.jpg"></marquee>
+	
+    <hr>
+    <h2>Recipee</h2>
+    <div class="wise">
+<table style ="background-color:white;">
+<tr>
+<th>Total Cook Time55 mins</th>
+<th>Prep Time10 mins</th>
+<th>Cook Time45 mins</th>
+<th>Recipe Servings4</th>
+</tr>
+</table>
+    </div>
+  <div class="rest">
+<big>ingredients for buter chicken</big>
+<ol>For the marinade:</ol>
+<li>Raw Chicken</li>
+<li>2 tsp Red Chilli Powder</li>
+<li>2 tsp Ginger-Garlic Paste</li>
+    <li>2 tsp Salt2 tsp Lemon Juice</li>
+ <li>1/2 cup Curd</li>
+ <li>1/2 tsp Garam Masala</li>
+ <li>1 tsp Kasuri Methi</li>
+ <li>2 tsp Mustard Oil</li>
+     </ol>
+ <ol>For gravy:</ol>
+ <li>2 tsp Oil</li>
+ <li>2 to taste Butter Cubes</li>
+ <li>3 gram Cloves</li>
+ <li>1 Cinnamon Stick,sliced</li>
+ <li>1 tsp Mace</li>
+ <li>7 Cardamom</li>
+ <li>4 Tomatoes, chopped</li>
+ <li>1 tsp Garlic1 tsp Ginger</li>
+ <li>1 tsp Ginger-Garlic Paste</li>
+ <li>1 1/2 tsp Red Chilli Powder</li>
+ <li>1 tsp Kasuri Methi</li>
+ <li>2 tsp Honey</li>
+ <li>1 Green Chilli</li>
+<li> 2 tsp Cardamom Powder</li>
+ <li>1 tbsp Cream</li>
+ </ol>
+ </div>
+ <div id="pink">
+<big>How to Make Butter Chicken</big>
+<br>
+For marination:
+<br>
+1.In a mixing bowl, put raw chicken pieces and add salt, red chilli powder, ginger garlic paste and lemon juice. Mix well.
+<hr>
+2.Refrigerate for about 15-20 minutes.
+<hr>
+3.Now add curd to the refrigerated mix. Followed by salt, ginger garlic paste, red chilli powder, garam masala, kasuri methi and mustard oil. Mix well and refrigerate again for an hour.
+<hr>
+4.Roast the marinated chicken in an oven for about 30 minutes until it is three-fourth done.
+<hr>
+Prepare the chicken gravy:
+<br>
+1.Heat 2 tsp of oil in a pan with butter.
+<hr>
+2.Add cloves, cinnamon stick, mace and cardamom. Saute and then add chopped tomatoes, garlic and ginger. Mix well and then grind well.
+<hr>
+3.In another pan, heat another two cubes of butter, along with ginger garlic paste.
+<hr>
+4.Add the tomato puree made from the mixture. Now add red chilli powder, kasuri methi, honey and finally the roasted chicken pieces. Let it simmer.
+<hr>
+5.Add green chilli, cardamom powder and cream. Mix well.
+<hr>
+6.Serve with a teaspoon of cream over.
+</div>
+<br>
+Nutritional Value
+<table>
+<tr>
+<td>346.2 KCal
+    Calories</td>
+<td>5.2g 
+    Carbs</td>
+<td>26.2g
+    Fats</td>
+<td>116.7Mg
+    Cholesterol</td>
+<td>21.8g
+    Protein</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>155.2Mg
+    Calcium</td>
+<td>232.0Mg
+    Phosphorous</td>
+<td>582.6Mg
+    Sodium</td>
+<td>383.6Mg
+    Potassium</td>
+
+</tr>
+</table>
+<br>
+<div class="dinner">
+     <b>Recipe Notes</b>
+<br>
+    <li>This is a classic chicken dish and enjoyed best when served hot. You can also garnish it with cream and green chillies just before serving.</li>
+    <br>
+<li>We have a huge variety of recipes when it comes to Indian chicken curries so you never run out of options.</li>
+<br>
+<li>If you are a health conscious chicken lover, we have got you covered even then with our delicious Low Fat Butter Chicken.</li>
+<br>
+<li>You could make a vegetarian version of the dish by simple replacing chicken with pieces of paneer. Marinate the paneer for 5-6 hours too to ensure there is enough flavour in them before putting them in the oven or tandoor. </li>
+
+  </div>
+  <hr>
+    </body>
+</html>
